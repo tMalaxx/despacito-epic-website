@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<title>fuck off the site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('background.gif');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+</style>
+<script>
+var party=0;
+if (party<=1)
+{
+    console.log("Man, this party stinks.")
+    console.log("I fucking hate these people.")
+}
+else
+{
+    console.log("Man, this party rocks.")
+    console.log("I really enjoy these people.")
+}
+</script>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topmiddle w3-padding-large w3-xlarge">
+    sup, hope you're doing good
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">hi</h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center w3-black">i'm gonna work on this sometime, no time soon tho</p>
+  </div>
+   <div class="w3-display-bottomleft w3-padding-large">
+    website created by <a href="https://twitter.com/tM_alaxx" title="this goes to my twitter, where else would it go" target="_blank" class="w3-hover-text-teal">@tM_alaxx.</a>
+  </div>
+  <div class="w3-display-bottommiddle w3-padding-large">
+    guy in the background is <a href="https://twitter.com/SethFNC" title="this goes to the guy in the background's twitter, where else would it go" target="_blank" class="w3-hover-text-pink">@SethFNC.</a>
+  </div>
+  <div class="w3-display-bottomright w3-padding-large">
+      send a tweet to <a class="twitter-share-button w3-hover-text-blue" title="i mean you could just message me, but i think i have that turned off" href="https://twitter.com/intent/tweet?text=@tM_alaxx hi weirdo">me</a>
+  </div>
+  <div class="w3-display-bottommiddle w3-padding-4">
+    website template from <a href="http://www.w3schools.com" title="yes i did steal a template from them, don't judge me weirdo" target="_blank" class="w3-hover-text-green">w3schools.</a>
+  </div>
+</div>
+<script>
+  console.log(".")
+  console.log("Website created by: tM_alaxx")
+  console.log("Template created by: w3schools")
+  console.log("Assistance: SethFNC")
+  console.log(".")
+  console.log("Hello Console Reader :^)")
+  console.log("If you want to help me, maybe click on that beta button below?")
+</script>
+
+
+</body>
+</html>
